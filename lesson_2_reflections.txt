@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+git init, cria um repositorio git sem commits ainda. Voce pode escolher os arquivos do dirct que o dirct git vai salvar no commit. Com git add exnome.txt, git add cake-recipe.txt, adiciona a lista de estagio(escolhas dos arquivos),  git status mostra os arquivos que nao estão no commit e os arquivos na area do commit. para concluir git commit e depois a mensagem, ou, git commit -m "Commit mensagem".
